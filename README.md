@@ -5,6 +5,8 @@
 
 已破解版本下载：https://github.com/ntkernel/file/blob/master/lantern%20break.7z
 
+#注意！解压之后新建一个叫".lantern.exe.new"的文件，记得第一个点"."，然后把修改权限拒绝掉，就可以防止更新了。#
+
 感谢JuncoJet大神的破解插件。
 
 具体破解方法：
