@@ -3,7 +3,7 @@
 
 想自己研究的可以去原版破解地址：https://github.com/JuncoJet/unlimited-landeng-for-win
 
-已破解版本下载：https://raw.githubusercontent.com/ntkernel/file/master/lantern%20break.7z
+传错文件了。。。。。。
 
 #注意！解压之后新建一个叫".lantern.exe.new"的文件，记得第一个点"."，然后把修改权限拒绝掉，就可以防止更新了。#
 
