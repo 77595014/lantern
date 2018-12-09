@@ -17,4 +17,4 @@
 
 用loadPE(https://github.com/ntkernel/file/blob/master/LoadPe.7z)往lantern.exe(4.4.0)添加导入表，import lantern.dll patch +,然后自己看教程吧。
 
---LLT
+--LLT：我上传的所有文件和教程仅供学习和交流，请不要用于商业或违法用途。谢谢！
