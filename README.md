@@ -16,4 +16,5 @@
 具体破解方法：
 
 用loadPE(https://github.com/ntkernel/file/blob/master/LoadPe.7z)往lantern.exe(4.4.0)添加导入表，import lantern.dll patch +,然后自己看教程吧。
+
 --LLT
