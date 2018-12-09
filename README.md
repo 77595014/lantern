@@ -5,7 +5,7 @@
 
 已破解版本：https://raw.githubusercontent.com/ntkernel/file/master/lantern.7z
 
-附上手机版4.7.9：https://raw.gihubusercontent.com/ntkernel/file/master/lantern4.7.9.apk
+附上手机版4.7.9：https://raw.githubusercontent.com/ntkernel/file/master/lantern4.7.9.apk
 
 手机版来自 https://gihub.com/lanternpro/about/download.md
 
